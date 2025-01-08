@@ -1,7 +1,7 @@
 # Gesture-Controlled Robotic Arm
 
 This repository contains the design, implementation, and documentation for a 5 Degree-of-Freedom (DoF) robotic arm controlled by a gesture-based glove. The project combines embedded systems, inverse kinematics (IK), and real-time motion control to achieve precise and responsive arm movements.
-See the [Link Text](/MIE438 Project Report .pdf) for full details
+See the [Project Report](/project_report.pdf) for full details
 - [Video Demonstration](https://www.youtube.com/watch?v=mmCg1Bn_yoI)
 ---
 
