@@ -1,0 +1,6 @@
+../Core/Src/inverse_kinematics.c:15:8:norm	2
+../Core/Src/inverse_kinematics.c:23:6:calculate_angles	3
+../Core/Src/inverse_kinematics.c:67:5:check_angle_validty	17
+../Core/Src/inverse_kinematics.c:86:6:calculate_trajectory	3
+../Core/Src/inverse_kinematics.c:112:6:calc_link1_vec	1
+../Core/Src/inverse_kinematics.c:119:6:calc_link2_vec	1

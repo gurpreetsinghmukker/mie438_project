@@ -1,0 +1,15 @@
+../Core/Src/main.c:243:6:move_arm	10
+../Core/Src/main.c:318:6:set_duty_cycle	1
+../Core/Src/main.c:325:5:set_motor_angle	3
+../Core/Src/main.c:337:6:process_motor_command	4
+../Core/Src/main.c:362:5:get_hand_orientation	10
+../Core/Src/main.c:408:6:process_accelerometer_command	3
+../Core/Src/main.c:429:6:save_cmd	14
+../Core/Src/main.c:500:19:process_cmds	15
+../Core/Src/main.c:571:6:putchar_	2
+../Core/Src/main.c:581:6:HAL_UART_RxCpltCallback	1
+../Core/Src/main.c:595:5:main	1
+../Core/Src/main.c:696:6:SystemClock_Config	3
+../Core/Src/main.c:739:6:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:754:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:771:6:Error_Handler	1
